@@ -16,7 +16,7 @@ export default {
   name: 'app',
   data () {
     return {
-      msg: 'Welcome to your Vue.js powered Spring Boot App'
+      msg: 'Welcome to your Vue.js powered Spring Boot App1'
     }
   }
 }
